@@ -41,3 +41,4 @@ daniela = ('Daniela', 31, 1987)
 #paulo = (39, 'Paulo', 1979) wrong
 
 
+#usar tuplas para listar coisas onde a posição importam
